@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Load trained model
-model = pickle.load(open("car_price_model.pkl", "rb"))
+model = pickle.load(open(model_path, "rb"))
 
 st.title("🚗 Car Price Prediction")
 st.write("Enter car details to predict the selling price.")
