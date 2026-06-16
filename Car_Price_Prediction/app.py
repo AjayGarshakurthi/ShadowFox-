@@ -3,6 +3,7 @@ import pandas as pd
 import pickle
 
 # Load trained model
+model_path = os.path.join(os.path.dirname(__file__), "car_price_model.pkl")
 model = pickle.load(open(model_path, "rb"))
 
 st.title("🚗 Car Price Prediction")
