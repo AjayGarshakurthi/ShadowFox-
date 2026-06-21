@@ -13,8 +13,9 @@ This repository contains the machine learning projects completed during my inter
 - Models: Random Forest / Linear Regression
 
 ### 3.Language Model Implementation and Analysis using BERT
--
-- 
+-Implemented a pretrained BERT Language Model using Hugging Face Transformers and PyTorch for sentiment analysis.
+-Developed a text classification pipeline, evaluated model performance on multiple inputs, visualized prediction results using Matplotlib and Seaborn, and analyzed the strengths and limitations of transformer-based NLP models.
+
 ## 🛠️ Tech Stack
 - Python
 - Pandas, NumPy
@@ -23,12 +24,16 @@ This repository contains the machine learning projects completed during my inter
 - Streamlit (if used)
 
 ## 📂 Folder Structure
-(brief explanation)
+  │
+  ├──Boston_House_Price_Prediction
+  ├──Car_Price_Prediction
+  ├──Language_Model
+  └──README.md
 
 ## 📈 Status
 - Boston House Price Model: Completed
-- Car Price Prediction: Completed / In Progress
-- Other Tasks: Not Started
+- Car Price Prediction: Completed 
+- Language Model Implementation and Analysis using BERT : Completed
 
 ## 📌 Internship
 ShadowFox AI/ML Internship
