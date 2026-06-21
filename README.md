@@ -12,8 +12,8 @@ This repository contains the machine learning projects completed during my inter
 - Predicts used car prices based on multiple features
 - Models: Random Forest / Linear Regression
 
-### 3.Not stareted yet
-- I'll start it now
+### 3.Language Model Implementation and Analysis using BERT
+-
 - 
 ## 🛠️ Tech Stack
 - Python
