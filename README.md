@@ -24,12 +24,15 @@ This repository contains the machine learning projects completed during my inter
 - Streamlit (if used)
 
 ## 📂 Folder Structure
-  │
-  ├──Boston_House_Price_Prediction
-  ├──Car_Price_Prediction
-  ├──Language_Model
-  └──README.md
-
+ ShadowFox/
+│
+├── Boston_House_Price_Prediction/
+│
+├── Car_Price_Prediction/
+│
+├── Language_Model/
+│
+└── README.md
 ## 📈 Status
 - Boston House Price Model: Completed
 - Car Price Prediction: Completed 
